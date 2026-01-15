@@ -139,3 +139,5 @@ Feel free to use, adapt, and extend.
 ## ✨ Author
 
 Prepared for academic and professional quantitative finance applications.
+
+
